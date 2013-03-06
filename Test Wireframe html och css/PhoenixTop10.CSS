@@ -1,0 +1,12 @@
+﻿@ charset "UTF-8";
+
+Body {
+Margin: auto;
+Width: 860px;
+font-family: sans-serif;
+font-size: 100%;
+outline: 1px solid Red;
+}
+
+section , header, footer {
+outline: 1px solid Blue; 
