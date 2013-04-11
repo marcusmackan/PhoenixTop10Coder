@@ -24,3 +24,9 @@ vertical-align: top;
 div[role="main"] > h1{
 	margin-left: 30%;
 }
+
+/* focus = markerad med tabb-tangenten, hover = när muspekaren hålls över länken*/
+.Menu a:focus, .Menu a:hover {
+	text-decoration: none;
+	color: #FC671E;
+}
