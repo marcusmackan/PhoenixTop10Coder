@@ -24,7 +24,7 @@ vertical-align: top;
 }
 
 div[role="main"] > h1{
-	margin-left: 30%;
+	text-align:center; color:#fff; width: 960px
 }
 
 .Menu a:link, .Menu a:visited {
