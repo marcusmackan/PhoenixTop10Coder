@@ -40,4 +40,12 @@ div[role="main"] > h1{
 }
 
 
+div [role="main"] > img {
+
+width: 50 px;
+height: auto;
+
+}
+
+
 
