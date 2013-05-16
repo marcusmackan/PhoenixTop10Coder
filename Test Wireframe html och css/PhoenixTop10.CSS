@@ -40,12 +40,17 @@ div[role="main"] > h1{
 }
 
 
-div [role="main"] >img {
+div[role="main"]  img {
 
-width: 50 px;
+width: 150px;
 height: auto;
 
 }
 
+div[role="main"] block {
+
+display:inline-block;
+
+}
 
 
