@@ -53,5 +53,16 @@ display:inline-block;
 
 }
 
+div[role="main"] figcaption {
+
+color: #FFF;
+
+}
+
+ div[role="main"] p {
+ color: #FFF;
+text-align: center;
+ 
+ }
 
 
