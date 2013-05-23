@@ -64,5 +64,15 @@ color: #FFF;
 text-align: center;
  
  }
+ 
+ .alignleft {
+	width: 200px;
+	display: inline-block;
+ }
 
+ .block p {
+	width: 600px;
+	display: inline-block;
+	vertical-align: top;
+ }
 
